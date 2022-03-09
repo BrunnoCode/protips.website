@@ -94,6 +94,7 @@ html body{
 background: url(../imagens/background.jpg) no-repeat center;
 padding-top: 40px;
 
+
 }
 
 .bt-signin {
@@ -102,5 +103,68 @@ padding-top: 40px;
     font-size: 16px;
     font-weight: 600;
     color: #ffffff;padding: 10px 30px;
+    border-radius: 4px;
+    margin-left: 30px;
 
+}
+.bt-signup{
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 600;
+    color: #ffffff;padding: 10px 30px;
+    background: #3F3F3F;
+}
+
+.apres_box{
+
+    padding-top: 100px;
+
+}
+
+.title-apresentacao {
+    font-family: "poppins" sans-serif;
+    font-size: 44px;
+    color: #3B3322;
+    line-height: 48px;
+}
+
+.title-apresentacao strong {
+    font-weight: 600;
+}
+
+.texto-apresentacao {
+    color: #544837;
+    font-size: 18px;
+    line-height: 24px;
+    margin: 40px 0 30px 0;
+}
+
+.caixa-texto{
+    width: 50%;
+    float: left;
+    padding-top: 60px;
+}
+
+.apresentacao-video{
+    float: left;
+    width: 50%;
+}
+
+
+.btn-get{
+    background: #FF4F4F;
+    font-size: 16px;
+    font-weight: 600;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 15px 30px;
+    border-radius: 4px;
+    display:inline-block;
+    
+    
+}
+
+.apresentacao-video{
+    float: left;
+    width: 50%;
 }
